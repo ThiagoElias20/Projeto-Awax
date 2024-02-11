@@ -15,5 +15,3 @@ pointers.forEach(function(pointer, index) {
     slides.style.marginLeft = `-${currentIndex * slideWidth}vw`;
   });
 });
-
-// Quero adicionar depois para que a cada segundo mude o display
